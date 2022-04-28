@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="left">
+  Hello! My name is Catherine :v: </br>
+  I'm a Full Stack developer.
+</p>
 
-<!--
-**CatherineTostes/CatherineTostes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="left">
+  Welcome to my GitHub profile!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="left">
+  :zap: Skills: <strong>HTML, CSS, Javascript, Typescript, Angular, Java, Spring Framework, Hibernate, Python</strong>.
+  
+  :computer: Tools: <strong>Git, VS Code, IntelliJ, Postman, PostgreSQL, Azure DevOps</strong>.
+</p>
+<br/> <br/>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/catherine-tostes" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/catherine-tostes"/>
+  </a>
+</p>
